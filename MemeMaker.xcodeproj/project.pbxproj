@@ -15,6 +15,7 @@
 		847F063825E51DF700338B31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 847F063625E51DF700338B31 /* LaunchScreen.storyboard */; };
 		847F064325E51DF700338B31 /* MemeMakerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847F064225E51DF700338B31 /* MemeMakerTests.swift */; };
 		847F064E25E51DF700338B31 /* MemeMakerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847F064D25E51DF700338B31 /* MemeMakerUITests.swift */; };
+		847F065F25E5213E00338B31 /* CaptionChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847F065E25E5213E00338B31 /* CaptionChoice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		847F064925E51DF700338B31 /* MemeMakerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemeMakerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		847F064D25E51DF700338B31 /* MemeMakerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeMakerUITests.swift; sourceTree = "<group>"; };
 		847F064F25E51DF700338B31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		847F065E25E5213E00338B31 /* CaptionChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionChoice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				847F062B25E51DF100338B31 /* AppDelegate.swift */,
 				847F062D25E51DF100338B31 /* SceneDelegate.swift */,
 				847F062F25E51DF100338B31 /* ViewController.swift */,
+				847F065E25E5213E00338B31 /* CaptionChoice.swift */,
 				847F063125E51DF100338B31 /* Main.storyboard */,
 				847F063425E51DF700338B31 /* Assets.xcassets */,
 				847F063625E51DF700338B31 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				847F063025E51DF100338B31 /* ViewController.swift in Sources */,
 				847F062C25E51DF100338B31 /* AppDelegate.swift in Sources */,
 				847F062E25E51DF100338B31 /* SceneDelegate.swift in Sources */,
+				847F065F25E5213E00338B31 /* CaptionChoice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
